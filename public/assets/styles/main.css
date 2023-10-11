@@ -1,0 +1,16 @@
+/* @media (prefers-color-scheme: dark) 
+{
+    body{ background: rgb(118, 111, 111); color: ghostwhite; } strong{ color: powderblue; }
+} */
+
+
+.main-cover
+{
+    background: url(../images/bg2.jpg);
+    background-size: cover;
+}
+
+*
+{
+    font-family: 'DM Sans', sans-serif;
+}
